@@ -1,0 +1,21 @@
+categories:
+- PNR_FAQ
+conversations:
+- - What is the use of PNR?
+  - PNR is utilized to get the Confirmed or Waitlisted status of your booking along with the coach and seat numbers.
+- - How to check PNR status 
+  - SMS Service : SMS 'PNR <10 Digit-PNR>' to 139 OR Railway Enquiry Number : Call 139
+- - What does PNR number include
+  - PNR include Passenger, Ticket, Transection/payment Details
+- - Where is PNR number on ticket
+  -  PNR number is usually printed at the top left corner of the tickets that are available at the railway station booking window. In case of the E - Ticket, the PNR number is mentioned at top in a separate cell.
+- - What is Waiting List or RAC means
+  - Once all available seats on a train are sold, the Indian railway releases RACs for railway reservations. When all of the RAC seats are sold, Waiting List tickets are released.
+- -  How can i get my ticket status
+  - There are two numbers mentioned on your ticket. The numbers detail the position at which you joined the waitlist and the current position of your ticket- in this order.
+- - What is the PNR numbers validity period
+  -  Normally, the digits of Passanger name record or PNR become meaningless after the completion of the journey. 
+- -  How does PNR number work
+  - The Centre of Railway Information Systems maintains information about passengers. Their system creates a 10-digit PNR status number every time a person buys an Indian Railways ticket, In case of group booking, a single PNR number can have a maximum of six passengers.
+- - How to check PNR status Online
+  - You can check IRCTC PNR Status or the Live PNR Status of Indian Railways tickets here at https://indianrailways.info/pnr_status/.

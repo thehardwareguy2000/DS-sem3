@@ -1,0 +1,15 @@
+categories:
+- Train_Running_status
+conversations
+- - How to check Train Running Status Online?
+  -  You can check IRCTC Train Status or the Live Train Status of any Indian Railways Train here at https://indianrailways.info/train_running_status/.
+- - How to check Train status through SMS
+  - SMS Service : SMS 'AD ' to 139
+- - How to check Train status through Phone?
+  - Railway Enquiry Number : Call 139
+- - Why do i get Error. Please try later : Message / Status while checking train running status
+  - If the LIVE train running status for your queried train number is not delivered, the following reasons could be responsible: You entered an incorrect or invalid train number, Train does not run on the date it is being queried, Indian Railways server is down or overloaded.
+- - How to track my Train on Map
+  - By clicking on the indicated points on the map, one can see the name of the station, the arrival and departure time, the travel day number on which the train is running and distance from the source station.
+- - How is Train Status Tracked
+  - The latest train status is reflected via an accurate GPS tracker and navigation system that provides accurate real time data for the travellers.

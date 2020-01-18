@@ -1,0 +1,11 @@
+categories:
+- Seat_availability_FAQ
+conversations:
+- - How to check Train seats availability Online
+  - You can check IRCTC seats availability or the Live Seats Availability of any Indian Railways Train here at https://indianrailways.info/seat_availability/.
+- - How to check Train seats availability through SMS
+  - SMS Service : SMS 'SEAT ' to 139
+- - How to check Train seats availability through Phone
+  - Railway Enquiry Number : Call 139
+- - Why do i get Error. Please try later : Message / Status while checkng seat availability
+  - If Trains Stopping on Station for your queried station is not delivered, the following reasons could be responsible: You entered an incorrect or invalid train number, You entered an incorrect or invalid station, Indian Railways server is down or overloaded.

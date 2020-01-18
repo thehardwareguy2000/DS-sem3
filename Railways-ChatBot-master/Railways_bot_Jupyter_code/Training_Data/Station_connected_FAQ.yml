@@ -1,0 +1,11 @@
+categories:
+- station_connected_FAQ
+conversations:
+- - How to find Stations directly connected Online
+  - You can check IRCTC Stations Directly Connected or the Directly Connected Stations Enquiry for any station of Indian Railways here at https://indianrailways.info/stations_directly_connected/
+- - How to find Stations directly connected through SMS
+  -  Not Possible. Indian Railways does not provide this facility, but u can check it via call @ 139
+- - How to find Stations directly connected through Phone
+  - Railway Enquiry Number : Call 139
+- - Details require to get info about Stations Directly Connected 
+  -  Station Code: Code of the Station which is directly connected to the one queried, Station Name: Name of the Station which is directly connected to the one queried.

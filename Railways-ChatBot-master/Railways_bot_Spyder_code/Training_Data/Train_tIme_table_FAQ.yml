@@ -1,0 +1,13 @@
+categories:
+- Train_Time_Table_FAQ
+conversations:
+- - How to check Train Time Table Online 
+  - You can check IRCTC Train Time Table or the Train Schedule And Train Timings of any Indian Railways Train here at https://indianrailways.info/train_time_table/.
+- - How to check Train Time Table through SMS
+  - SMS Service : SMS 'TIME ' to 139, Example : AD 12002 
+- - How to check Train Time Table through Phone
+  - Railway Enquiry Number : Call 139
+- - What does the Train Time Table headings mean
+  - Serial Number, Station Name and Code, Platform Number of Stations where train stop, Scheduled Arrival Time, Scheduled Departure Time, Number of day of train travel, Distance covered from Origin Station
+- - Why do i get Error. Please try later : Message / Status while checking trian time table
+  - If the Train Time Table for your queried train number is not delivered, the following reasons could be responsible: You entered an incorrect or invalid train number, Indian Railways server is down or overloaded.

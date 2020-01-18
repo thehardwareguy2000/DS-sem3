@@ -1,0 +1,11 @@
+categories:
+- Train_Platform_Enquiry
+conversations
+- - How to find the platform number at which train arrives Online
+  - You can do Train Platform enquiry for any train on any station of Indian Railways here at https://indianrailways.info/train_platform_enquiry/.
+- - How to find the platform number at which train arrives through SMS
+  - Not Possible. Indian Railways does not provide this facility.
+- - How to find the platform number at which train arrives through Phone
+  - Railway Enquiry Number : Call 139
+- - What does the Train Platform Enquiry headings mean
+  - Train number, Train Name, StationName and Code, Platform Number, Start Station, End Station
